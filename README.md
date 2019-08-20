@@ -1,3 +1,5 @@
+Disclaimer: I can NOT get this s..tuff work!
+
 # J2ObjC-Framework
 Integrates the pre-built J2ObjC frameworks into your project
 
